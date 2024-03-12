@@ -1,0 +1,3 @@
+variable "USER" {
+  default = "ubuntu"
+}
